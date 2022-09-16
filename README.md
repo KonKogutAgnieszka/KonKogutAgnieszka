@@ -1,7 +1,9 @@
 ![logo](https://agnieszkakonkogut.netlify.app/img/konkogutkod.png)
 👋 Hi, I’m @KonKogutAgnieszka 
 
-I'm self-taught front-end dev :arrow_forward: & still learning
+---
+
+I'm self-taught front-end dev :arrow_forward: 
 
 currently learning react
 
