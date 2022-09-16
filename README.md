@@ -1,4 +1,5 @@
-![logo](https://agnieszkakonkogut.netlify.app/img/konkogutkod.png)
+<img src="https://agnieszkakonkogut.netlify.app/img/konkogutkod_red.png" width="auto" height="50"/> 
+
 👋 Hi, I’m @KonKogutAgnieszka 
 
 ---
