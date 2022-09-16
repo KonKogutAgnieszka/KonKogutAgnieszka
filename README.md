@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @KonKogutAgnieszka
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning React
-- 📫 How to reach me konagnieszka@gmail.com
-<!---
-KonKogutAgnieszka/KonKogutAgnieszka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![logo](https://agnieszkakonkogut.netlify.app/img/konkogutkod.png)
+👋 Hi, I’m @KonKogutAgnieszka 
+
+I'm self-taught front-end dev :arrow_forward: & still learning
+
+currently learning react
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass Logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>  :wrench:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT Logo" width="50" height="50"/> 
+          
+
+
+---
+
