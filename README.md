@@ -1,6 +1,6 @@
 <img src="https://agnieszkakonkogut.netlify.app/img/konkogutkod_red.png" width="auto" height="50"/> 
 
-👋 Hi, I’m  [@KonKogutAgnieszka]([https://pages.github.com/](https://agnieszkakonkogut.netlify.app/)
+👋 Hi, I’m  [@KonKogutAgnieszka](https://agnieszkakonkogut.netlify.app/)
 
 ---
 
