@@ -1,6 +1,6 @@
 <img src="https://agnieszkakonkogut.netlify.app/img/konkogutkod_red.png" width="auto" height="50"/> 
 
-👋 Hi, I’m  [@KonKogutAgnieszka](https://agnieszkakonkogut.netlify.app/)
+👋 Hi, I’m  [@KonKogutAgnieszka](https://agnieszkakonkogut.netlify.app/) :computer:
 
 ---
 
@@ -11,6 +11,8 @@ currently learning react
 ---
 
 🧰 Toolbox
+<p float="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> 
