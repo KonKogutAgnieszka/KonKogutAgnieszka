@@ -12,7 +12,7 @@ currently learning react
 
 🧰 Toolbox
 <p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="Figma Logo" width="50" height="50"/>
 
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> 
