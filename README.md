@@ -6,7 +6,7 @@
 
 I'm self-taught front-end dev :arrow_forward: 
 
-currently learning react
+currently working as dev
 
 ---
 
