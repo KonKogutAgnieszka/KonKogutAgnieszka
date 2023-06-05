@@ -26,8 +26,7 @@ currently working as dev
 </p>
 
 <p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="30" height="30"/> <img src="https://media3.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif?cid=ecf05e470x5rvg1v7e96jm0t7ktdcpdhstbuikvnu90eu4m7&rid=giphy.gif&ct=g" alt="React Logo" width="80" height="auto"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="React Logo" width="30" height="30"/> <img src="https://media3.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif?cid=ecf05e470x5rvg1v7e96jm0t7ktdcpdhstbuikvnu90eu4m7&rid=giphy.gif&ct=g" alt="React Logo" width="80" height="auto"/>
 </p>
 
 ---
-
