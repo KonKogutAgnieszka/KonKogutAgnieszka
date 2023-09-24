@@ -6,7 +6,9 @@
 
 I'm self-taught front-end dev :arrow_forward: 
 
-currently working as dev
+currently working as dev :construction_worker:
+
+wanna collaborate? hit me up :raising_hand:
 
 ---
 
