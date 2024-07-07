@@ -29,7 +29,7 @@ wanna collaborate? hit me up :raising_hand:
 </p>
 
 <p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue Logo" width="30" height="30"/> <img src="https://media3.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif?cid=ecf05e470x5rvg1v7e96jm0t7ktdcpdhstbuikvnu90eu4m7&rid=giphy.gif&ct=g" alt="loading" width="80" height="auto"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue Logo" width="30" height="30"/>
 </p>
 
 ---
