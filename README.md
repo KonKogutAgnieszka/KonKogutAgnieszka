@@ -4,7 +4,7 @@
 
 ---
 
-I'm self-taught front-end dev :arrow_forward: 
+I'm front-end dev :arrow_forward: 
 
 currently working as dev :construction_worker:
 
