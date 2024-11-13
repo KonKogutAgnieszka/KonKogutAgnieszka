@@ -16,7 +16,7 @@ wanna collaborate? hit me up :raising_hand:
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="Figma Logo" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT Logo" width="30" height="30"/> 
-
+</p>
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="30" height="30"/> 
@@ -26,16 +26,13 @@ wanna collaborate? hit me up :raising_hand:
 </p>
 
 <p float="left">
-
-</p>
-
-<p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Logo" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue Logo" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next Logo" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Logo" width="30" height="30"/>
 </p>
 
-<p>
+<p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node Logo" width="30" height="30"/>
 </p>
 
