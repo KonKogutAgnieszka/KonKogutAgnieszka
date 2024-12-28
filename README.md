@@ -6,7 +6,7 @@
 
 I'm front-end dev :arrow_forward: 
 
-currently working as dev :construction_worker:
+currently working as frontEnd & BPM dev :construction_worker:
 
 wanna collaborate? hit me up :raising_hand:
 
