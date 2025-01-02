@@ -6,7 +6,8 @@
 
 I'm front-end dev :arrow_forward: 
 
-currently working as frontEnd & BPM dev :construction_worker:
+Currently working as a **front-end & BPM developer** :construction_worker:, with occasional focus on **UI/UX design**.
+
 
 wanna collaborate? hit me up :raising_hand:
 
