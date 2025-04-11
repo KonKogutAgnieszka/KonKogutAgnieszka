@@ -4,12 +4,11 @@
 
 ---
 
-I'm front-end dev :arrow_forward: 
+I'm a front-end developer 💻 with a soft spot for UI/UX design 🎨  
+Partially also a BPM developer ⚙️
 
-Currently working as a **front-end & BPM developer** :construction_worker:, with occasional focus on **UI/UX design**.
-
-
-wanna collaborate? hit me up :raising_hand:
+Currently building modern, user-focused interfaces — fast, thoughtfully, and with a bit of design flair.  
+Wanna collaborate? Hit me up! 🙋‍♀️
 
 ---
 
