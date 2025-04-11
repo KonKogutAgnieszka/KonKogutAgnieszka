@@ -1,6 +1,8 @@
 <img src="https://agnieszkakonkogut.netlify.app/img/konkogutkod_red.png" width="auto" height="50"/> 
 
-👋 Hi, I’m  [@KonKogutAgnieszka](https://agnieszkakonkogut.netlify.app/) :computer:
+👋 Hi, I’m [@KonKogutAgnieszka](https://agnieszkakonkogut.netlify.app/) :computer:  
+(Old website – currently working on a new version!)
+
 
 ---
 
